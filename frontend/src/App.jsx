@@ -7,9 +7,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-    Testing
-    </>
+    <div className='bg-amber-300'>
+      Testing
+    </div>
   )
 }
 
